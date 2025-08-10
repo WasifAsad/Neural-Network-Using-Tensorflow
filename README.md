@@ -1,6 +1,6 @@
 ## Handwritten Digit Recognition with TensorFlow
 
-A simple neural network built using TensorFlow to classify handwritten digits from the MNIST dataset.The model was trained for 5 epochs and achieved an accuracy of 97.70%.
+A simple neural network built using TensorFlow to classify handwritten digits from the MNIST dataset. The model was trained for 5 epochs and achieved an accuracy of 97.70%. This was my first try to create a neural network using Tensorflow.
 
 ### Features
 
